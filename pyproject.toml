@@ -8,4 +8,5 @@ description = "MRE of Pylint Import Bug"
 version = "0.1.0"
 dependencies = [
     "pylint",
+    "pytest"
 ]
