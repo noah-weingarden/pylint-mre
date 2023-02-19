@@ -1,6 +1,6 @@
 # Minimal reproducible example
 
-See [this comment]().
+See [this comment](https://github.com/PyCQA/pylint/issues/7306#issuecomment-1435899922).
 
 Steps to reproduce:
 
